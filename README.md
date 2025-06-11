@@ -12,4 +12,4 @@ To streamline the setup of a complete environment for threat detection, red team
 Run the script as Administrator in PowerShell:
 ```powershell
 Set-ExecutionPolicy Bypass -Scope Process -Force
-.\install_scripts.ps1
+.\install_script.ps1
